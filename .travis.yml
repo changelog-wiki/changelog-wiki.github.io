@@ -1,0 +1,22 @@
+language: go
+
+go:
+  - master # This uses automatically the latest version of go
+
+install:
+  - go get github.com/gohugoio/hugo # This provides the latest version of Hugo to Travis CI
+
+script:
+  - hugo 
+
+deploy:
+  local_dir: public
+  repo: changelog-wiki/changelog-wiki.github.io # This is the slug of the repo you want to deploy your site to
+  target_branch: gh-pages # GitHub pages branch to deploy to (in other cases it can be gh-pages)
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
+  email: nickolas@gupton.xyz
+  name: "Nickolas Gupton"
+  on:
+    branch: master

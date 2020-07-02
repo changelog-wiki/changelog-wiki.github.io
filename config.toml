@@ -1,0 +1,25 @@
+baseURL = "https://changelog.wiki/"
+languageCode = "en-us"
+title = "Changelog Wiki"
+theme = "hugo-notepadium"
+copyright = "MIT Licensed"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
+
+[params]
+dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
+logo = "images/profile.png"  # if you have a logo png
+
+[params.syntax]
+use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
+theme = "xcode"
+darkTheme = "xcode-dark"  # apply this theme in dark mode
+
+[params.nav]
+showCategories = true       # /categories/
+showTags = true             # /tags/
