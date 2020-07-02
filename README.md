@@ -1,4 +1,4 @@
-# Changelog Wiki
+# Changelog Wiki [![Build Status](https://travis-ci.org/changelog-wiki/changelog-wiki.github.io.svg?branch=develop)](https://travis-ci.org/changelog-wiki/changelog-wiki.github.io)
 This repo is for the main site at https://changelog.wiki.
 
 ## Contributor Guidelines
