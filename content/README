@@ -1,0 +1,7 @@
+If you're looking at this `master` branch, you are probably in the wrong place. This is what is automatically built and deployed to GitHub pages.
+
+For the actual source this is built from look at the `develop` branch.
+
+This may seem flipped around, and I would agree with you. However, because of the limitations of GitHub the master branch is what must be built and deployed to GitHub Pages, more info about why can be found here: https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+If you're here in the `develop` branch, you can safely ignore this README.

@@ -7,7 +7,6 @@ install:
 
 script:
   - hugo 
-  - echo "changelog.wiki" > ./public/CNAME
 
 deploy:
   local_dir: public
