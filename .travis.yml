@@ -7,6 +7,7 @@ install:
 
 script:
   - hugo 
+  - sed -i "" -e "s/&rsquo;/'/g" $(find ./public -type f)
 
 deploy:
   local_dir: public
