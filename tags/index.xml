@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Changelog Wiki</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Changelog Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT Licensed</copyright>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game</title>
+      <link>/tags/game/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/game/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Super Smash Bros. Ultimate</title>
+      <link>/tags/super-smash-bros.-ultimate/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/super-smash-bros.-ultimate/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nintendo Switch</title>
+      <link>/tags/nintendo-switch/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nintendo-switch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Operating System</title>
+      <link>/tags/operating-system/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/operating-system/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

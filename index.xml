@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Changelog Wiki</title>
+    <link>/</link>
+    <description>Recent content on Changelog Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT Licensed</copyright>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Why does this exist? I think that changelogs are important for a few reasons:
+ They tell the user why they should update, as a software developer you spend countless hours working on a product, you should want users to see the fruits of your labor. If the update contains security patches its important that users know about this, and without knowing they may not update leaving them vulnerable. Changelogs build user trust in your software, users are able to see specifically what you have been working on and the more transparent you are with them the easier it is for a user to understand why they should trust your software.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
